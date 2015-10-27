@@ -1,0 +1,209 @@
+{
+  "basics": {
+    "name": "Simon Fessehaye",
+    "label": "Programmer",
+    "picture": "",
+    "email": "fessehay@ualberta.ca",
+    "phone": "587-987-0108",
+    "website": "https://github.com/fessehaye",
+    "summary": "",
+    "location": {
+      "address": "12120 82St. #21",
+      "postalCode": "T5B 2W7",
+      "city": "Edmonton",
+      "countryCode": "CAN",
+      "region": "Alberta"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Four Winds & Associates",
+      "position": "Junior Web Programmer",
+      "website": "http://www.fourwinds.ca/",
+      "startDate": "2015-06-01",
+      "endDate": "",
+      "summary": "Part-time position that consists of coding at all levels of the application stack - database and SQL, application servers in python and django, and the front-end in HTML, CSS, and jQuery.",
+      "highlights": [
+        "Modify existing Django applications based of clients requests and deploy them on Digitalocean Droplets."
+      ]
+    },
+    {
+      "company": "Playmaker Inc.",
+      "position": "Junior Web Programmer",
+      "website": "www.playmaker.io",
+      "startDate": "2015-06-01",
+      "endDate": "",
+      "summary": "Worked Part-time for small startup that focused on building a business mobile application. Responsible for Symfony PHP application that supports android application.",
+      "highlights": [
+        "Added API and functionality to Symfony framework application.",
+        "Used PHP Websockets and front-end Javascript to create simple chat application."
+      ]
+    },
+    {
+      "company": "University Of Alberta/Faculty of Business",
+      "position": "Internet Design and Programming Assistant",
+      "website": "",
+      "startDate": "2014-11-01",
+      "endDate": "2015-04-01",
+      "summary": "Worked part-time remotely using django and python to create a web application to support web-scapping scripts.",
+      "highlights": [
+        "Recreate existing NodeJS project as a Python Django web application.",
+        "Create Django applications for large-scale research project."
+      ]
+    },
+    {
+      "company": "University of Alberta/Technical Support Team",
+      "position": "Helpdesk Consultant",
+      "website": "https://uofa.ualberta.ca/computing-science/links-and-resources/technical-support",
+      "startDate": "2013-05-01",
+      "endDate": "2014-07-01",
+      "summary": "Worked in the CS Helpdesk year-round helping students and staff with IT related issues.",
+      "highlights": [
+        "Troubleshooting undergraduate/graduate student accounts using various techniques.",
+        "Using scripting languages to represent data from specific machines.",
+        "Using linux scripts/commands to obtain information about specific machines as well as sshing remotely to servers within the Computing Science department."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Undergraduate Association of Computing Science",
+      "position": "President",
+      "website": "www.uacs.ca",
+      "startDate": "2014-04-01",
+      "endDate": "2015-04-01",
+      "summary": "The UACS president is the primary representative of the UACS executive as well as a leader and facilitator for the other members of the executive.As a facilitator, available to assist other executives in overcoming obstacles related to their tasks.",
+      "highlights": [
+        "Ran weekly executive meetings.",
+        "Attend and participate in meetings with the Department Chair and Undergraduate Chair.",
+        "Assisted and lead all major social events throughout the school year."
+      ]
+    },
+    {
+      "organization": "Undergraduate Association of Computing Science",
+      "position": "Vice President of Finance",
+      "website": "www.uacs.ca",
+      "startDate": "2013-04-01",
+      "endDate": "2014-04-01",
+      "summary": "Responsible for all financial needs and budgets for Undergraduate Association of Computing Science. Keeping accurate and readable financial documents.",
+      "highlights": [
+        "Applied for department funding as well as other University-related grants.",
+        "Created Annual Budget for organization."
+      ]
+    },
+    {
+      "organization": "Undergraduate Association of Computing Science",
+      "position": "Second Year Representative",
+      "website": "www.uacs.ca",
+      "startDate": "2012-04-01",
+      "endDate": "2013-04-01",
+      "summary": "Be a voice for the second year Computing Science students and to enact that role by adding to discussions, bringing up issues and voting on any issues that are brought up at the weekly UACS meetings. Run biannual LAN Party at the end of each semester. ",
+      "highlights": [
+        "Organized 24 Hour 100 people event every semester."
+      ]
+    },
+    {
+      "organization": "University of Alberta Smash Bros Group",
+      "position": "President",
+      "website": "https://www.facebook.com/groups/edmontonsmash/",
+      "startDate": "2014-04-01",
+      "endDate": "2015-04-01",
+      "summary": "Asked to be President for the Group to act as main communication between the University and the Edmonton Group for multiple events.",
+      "highlights": [
+        "Find venue and storage for weekly/monthly events within the University."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Alberta",
+      "area": "Specialization in Computing Science",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2015-05-01",
+      "gpa": "",
+      "courses": [
+        "Elementary Calculus I, II, & III ",
+        "Intro to Computing Science",
+        "Programming with Data Structures",
+        "Linear Algebra I & II",
+        "Graph Theory",
+        "Practical Programming Methodology",
+        "Algorithms I",
+        "Introduction to Digital Image Processing",
+        "Formal Systems and Logic in Computing Science",
+        "Introduction to File and Database Management",
+        "Introduction to Software Engineering",
+        "Non-Procedural Programming Languages",
+        "Introduction to Numerical Methods",
+        "Intelligent Systems",
+        "Database Management Systems",
+        "Software Process and Product Management",
+        "Web-Based Information Systems",
+        "Machine Learning",
+        "Operating Systems",
+        "Combinatorics",
+        "Experimental Mobile Robotics"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Java",
+        "Python",
+        "Javascript",
+        "SQL",
+        "HTML/XHTML/HTML5",
+        "PHP",
+        "Perl",
+        "Matlab/Octave"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "Oracle",
+        "SQLite",
+        " MySQL",
+        "MongoDB",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "",
+      "keywords": [
+        "Django",
+        "Flask",
+        "Bootstrap",
+        "AngularJS",
+        "NodeJS",
+        "Symfony",
+        "Codeigniter",
+        "ImpactJS",
+        "Knockout JS",
+        "JQuery"
+      ]
+    },
+    {
+      "name": "Other Technologies",
+      "level": "",
+      "keywords": [
+        "Lego Mindstorm",
+        "SPSS",
+        "Android/Mobile Development",
+        "Eclipse"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": []
+}
