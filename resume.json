@@ -33,7 +33,7 @@
       "position": "Junior Web Programmer",
       "website": "www.playmaker.io",
       "startDate": "2015-06-01",
-      "endDate": "",
+      "endDate": "2015-10-01",
       "summary": "Worked Part-time for small startup that focused on building a business mobile application. Responsible for Symfony PHP application that supports android application.",
       "highlights": [
         "Added API and functionality to Symfony framework application.",
@@ -162,7 +162,8 @@
         "HTML/XHTML/HTML5",
         "PHP",
         "Perl",
-        "Matlab/Octave"
+        "Matlab/Octave",
+        "C"
       ]
     },
     {
@@ -171,7 +172,7 @@
       "keywords": [
         "Oracle",
         "SQLite",
-        " MySQL",
+        "MySQL",
         "MongoDB",
         "PostgreSQL"
       ]
@@ -203,7 +204,7 @@
       ]
     }
   ],
-  "languages": [],
+  "languages": ["English"],
   "interests": [],
   "references": []
 }
