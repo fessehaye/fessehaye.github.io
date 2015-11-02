@@ -55,7 +55,7 @@
 }
 body {
   font-family: 'Lato';
-  background: #f0f0f0;
+  background: #a94442;
   color: #333333;
 }
 .main {
@@ -668,25 +668,25 @@ body {
         <nav class="floating-nav js-floating-nav">
           <ul class="list-unstyled">
             <li>
-              <a href="#work-experience">
+              <a onclick="$('#work-experience').animatescroll();">
                 <i class="fa fa-building"></i>
                 Work Experience
               </a>
             </li>
             <li>
-              <a href="#skills">
+              <a onclick="$('#skills').animatescroll();">
                 <i class="fa fa-code"></i>
                 Skills
               </a>
             </li>
             <li>
-              <a href="#education">
+              <a onclick="$('#education').animatescroll();">
                 <i class="fa fa-mortar-board"></i>
                 Education
               </a>
             </li>
               <li>
-                <a href="#volunteer-work">
+                <a onclick="$('#volunteer-work').animatescroll();">
                   <i class="fa fa-child"></i>
                   Volunteer Work
                 </a>
@@ -697,10 +697,6 @@ body {
         <section class="col-md-3 card-wrapper profile-card-wrapper affix">
           <div class="card profile-card">
               <span class="profile-pic-container">
-                <div class="profile-pic">
-                  <!--img class="media-object img-circle center-block"  data-src="holder.js/100x100"
-                    alt="Simon Fessehaye" src="//www.gravatar.com/avatar/cde1938e334816a1b80cdc83ce1917ce?s=100&amp;r=pg&amp;d=mm" itemprop="image"-->
-                </div>
 
                 <div class="name-and-profession">
                   <h3 class="text-center text-bolder name" itemprop="name"> Simon Fessehaye</h3>
@@ -1129,6 +1125,7 @@ body {
 
     <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="animatescroll.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/js/tooltip.js"></script>
   <script type="text/javascript">
 /* <![CDATA[ */
